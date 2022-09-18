@@ -5,7 +5,16 @@ store "Tanggal" as str with date value
 display "Tugas"
 
 if ceklis == false
-    select tugas
+     select tugas
+    if tambah sub tugas == true
+    proses tambah sub tugas
+    store "Sub Tugas"
+    store "Tanggal"
+    display "Tugas"
+    
+    else if tambah sub tugas == false 
+    display "Tugas"
+    
 else if ceklis == true
     tanda selesai
 end if
