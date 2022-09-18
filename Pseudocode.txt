@@ -1,3 +1,11 @@
 store "Tugas" as str with any value
 store "Kategori" as str with predertermined value
 store "Tanggal" as str with date value
+
+display "Tugas"
+
+if ceklis == false
+    select tugas
+else if ceklis == true
+    tanda selesai
+end if
