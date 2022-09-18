@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="UA_ddnlgY2sm2zVyvtSE" name="Page-1">
-        <mxGraphModel dx="1578" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="888" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -66,6 +66,9 @@
                 <mxCell id="20" value="Pilih Tugas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="580" y="650" width="120" height="60" as="geometry"/>
                 </mxCell>
+                <mxCell id="47" style="edgeStyle=none;html=1;" edge="1" parent="1" source="22" target="46">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="22" value="Tanda Selesai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="210" y="760" width="120" height="60" as="geometry"/>
                 </mxCell>
@@ -129,8 +132,8 @@
                 <mxCell id="43" value="No&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="700" y="770" width="30" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="44" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="290" y="780" width="40" height="20" as="geometry"/>
+                <mxCell id="46" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="880" width="120" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
